@@ -1,0 +1,33 @@
+*{
+
+}
+header{
+    border: 1px solid grey;
+}
+body{
+    background: #ddd;
+}
+/*Class*/
+.card{
+    padding: 10px;
+    background: #fff;
+    margin-bottom: 10px;
+}
+.card p{
+    font-size: 18px;
+}
+/*Id*/
+#header{
+    background: #dddddd;
+}
+.html{
+    background: #e56027;
+    color: #dddddd;
+}
+.css{
+    background: #2760e5;
+    color: #ffffff;
+}
+#header, .html, .css{
+    margin-bottom: 10px;
+}

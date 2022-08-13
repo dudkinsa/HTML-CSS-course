@@ -1,0 +1,25 @@
+body{
+    background:#4a105b;
+    color: #74607b;
+}
+.color-1{
+    color: crimson;
+}
+/*RGB*/
+.color-2{
+    color: #4b0082;
+}
+/*сокращенный вариант*/
+.color-3{
+    color: #ddd;
+}
+/*0-255*/
+.color-4{
+    color: rgb(0,150,0);
+    /*opacity: 0.2;*/
+}
+/*последний прараметр прозрачность (opacity)*/
+/*0-1*/
+.color-5{
+    color: rgba(150,0,0,1);
+}

@@ -1,0 +1,17 @@
+/*inline, block, in-line-box*/
+.inline  li{
+    display: inline;
+}
+
+.box{
+    width: 33%;
+    border: 1px solid black;
+    background: #eeefff;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.img{
+    width: 200px;
+    margin: 40px auto;
+    display: block;
+}
